@@ -1,6 +1,6 @@
 # Cockpit Addons - Vercel Deploy Trigger
 
-This repository is an addon for Cockpit CMS. Support Cockpit CMS version 2.
+This repository is an addon for [Cockpit CMS](https://getcockpit.com/). Support Cockpit CMS version 2.
 
 ### How to Install
 
